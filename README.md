@@ -16,7 +16,7 @@ Optimize model hyperparameters using techniques such as cross-validation and gri
 Interpret the model results and assess its performance based on the defined problem statement. Same steps for Regression modelling. 
 5)STREAMLIT:  
 In streamlit webpage, enter the input values to get predicted selling price and the status of product.  
-LIBRARIES:
+LIBRARIES:  
 Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, and Streamlit.
 
 
